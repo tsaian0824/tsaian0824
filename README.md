@@ -1,6 +1,12 @@
 ### Remote Access Tools
 - [golang][windows][unix] [reverse_ssh](https://github.com/tsaian0824/reverse_ssh)
 - [C++][windows] [SimpleRemoter](https://github.com/tsaian0824/SimpleRemoter)
+- [rust][windows][rust-rat](https://github.com/tsaian0824/rust-rat)
+- [java][web][antSword](https://github.com/tsaian0824/antSword)|[release version](https://github.com/AntSwordProject/antSword/releases/)
+- [java][web][Godzilla](https://github.com/tsaian0824/Godzilla)|[release version](https://github.com/BeichenDream/Godzilla/releases/)
+- [golang][windows][unix] [CHAOS](https://github.com/tsaian0824/CHAOS)
+### Tools
+- [golang][shellcodePacker][darkPulse](https://github.com/tsaian0824/darkPulse)
 ### Tounel Tools
 - [golang][windows][unix] [Stowaway](https://github.com/tsaian0824/Stowaway)
 ### Post-Exploitation Tools
