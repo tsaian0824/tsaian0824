@@ -1,3 +1,12 @@
+### Reconnaissance
+- [Rust] [RustScan](https://github.com/tsaian0824/RustScan)
+- [Shell] [nmapAutomator](https://github.com/tsaian0824/nmapAutomator)
+- [Py] [AutoRecon](https://github.com/tsaian0824/AutoRecon)
+- [Go] [amass](https://github.com/tsaian0824/amass)| [release version](https://github.com/owasp-amass/amass/releases/)
+- [Py] [CloudEnum](https://github.com/tsaian0824/cloud_enum)| [release version](https://github.com/initstring/cloud_enum/releases/)
+- [Py] [Recon-NG](https://github.com/tsaian0824/recon-ng)
+- [Py] [AttackSurfaceMapper](https://github.com/tsaian0824/AttackSurfaceMapper)
+- [Online] [DNSDumpster](https://dnsdumpster.com/)
 ### Remote Access Tools
 - [Go][windows][unix] [reverse_ssh](https://github.com/tsaian0824/reverse_ssh)
 - [C++][windows] [SimpleRemoter](https://github.com/tsaian0824/SimpleRemoter)
