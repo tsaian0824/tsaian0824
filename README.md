@@ -39,6 +39,7 @@
 - [Go][windows] [Havoc](https://github.com/tsaian0824/Havoc)
 - [Go][windows] [Sliver](https://github.com/tsaian0824/sliver)| [release version](https://github.com/BishopFox/sliver/releases)
 - [PowerShell][windows] [Empire](https://github.com/tsaian0824/Empire)| [release version](https://github.com/BC-SECURITY/Empire/releases)
+- [Py][C# Web] [SharPyShell](https://github.com/tsaian0824/SharPyShell)| [release version](https://github.com/antonioCoco/SharPyShell/releases)
 ### Tools
 - [Go][shellcodePacker] [darkPulse](https://github.com/tsaian0824/darkPulse)
 - [Go][Packer] [Go2bypass](https://github.com/tsaian0824/Go2bypass)
