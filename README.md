@@ -21,6 +21,7 @@
 - [Py][windows] [PRW-RAT](https://github.com/tsaian0824/PRW-RAT)
 - [C#][windows] [DcRat](https://github.com/tsaian0824/DcRat)|[release version](https://github.com/qwqdanchun/DcRat/releases/tag/v1.0.7)
 - [Py][windows][unix][android] [Arbitrium-RAT](https://github.com/tsaian0824/Arbitrium-RAT)
+- [Go][C++][windows] [Havoc](https://github.com/tsaian0824/Havoc)
 ### Tools
 - [Go][shellcodePacker] [darkPulse](https://github.com/tsaian0824/darkPulse)
 - [Go][Packer] [Go2bypass](https://github.com/tsaian0824/Go2bypass)
