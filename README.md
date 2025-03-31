@@ -40,6 +40,7 @@
 - [Go][windows] [Sliver](https://github.com/tsaian0824/sliver)| [release version](https://github.com/BishopFox/sliver/releases)
 - [PowerShell][windows] [Empire](https://github.com/tsaian0824/Empire)| [release version](https://github.com/BC-SECURITY/Empire/releases)
 - [Py][C# Web] [SharPyShell](https://github.com/tsaian0824/SharPyShell)| [release version](https://github.com/antonioCoco/SharPyShell/releases)
+- [Go][windows] [merlin](https://github.com/tsaian0824/merlin)| [release version](https://github.com/Ne0nd0g/merlin/releases)
 ### Tools
 - [Go][shellcodePacker] [darkPulse](https://github.com/tsaian0824/darkPulse)
 - [Go][Packer] [Go2bypass](https://github.com/tsaian0824/Go2bypass)
@@ -54,6 +55,8 @@
 - [RamiGPT](https://github.com/tsaian0824/RamiGPT)
 - [C] [mimikatz](https://github.com/tsaian0824/mimikatz)| [release version](https://github.com/gentilkiwi/mimikatz/releases)
 - [Py] [impacket](https://github.com/tsaian0824/impacket)| [release version](https://github.com/fortra/impacket/releases)
+### Exploit Payload
+- [wy876漏洞库的备份](https://github.com/tsaian0824/wy876-exploit-payload)
 <!---
 tsaian0824/tsaian0824 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
