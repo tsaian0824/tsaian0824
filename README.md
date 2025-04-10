@@ -15,7 +15,7 @@
 - [Go] [Modlishka](https://github.com/tsaian0824/Modlishka)| [release version](https://github.com/drk1wi/Modlishka/releases)
 ### Remote Access Tools
 - [Go][windows][unix] [reverse_ssh](https://github.com/tsaian0824/reverse_ssh)
-- [C++][windows] [SimpleRemoter](https://github.com/tsaian0824/SimpleRemoter)
+- [C++][windows] [SimpleRemoter](https://github.com/tsaian0824/SimpleRemoter)| [release version](https://github.com/yuanyuanxiang/SimpleRemoter/releases)
 - [Rust][windows] [rust-rat](https://github.com/tsaian0824/rust-rat)
 - [Java][web] [antSword中国蚁剑](https://github.com/tsaian0824/antSword)| [release version](https://github.com/AntSwordProject/antSword/releases/)
 - [Java][web] [Godzilla哥斯拉](https://github.com/tsaian0824/Godzilla)| [release version](https://github.com/BeichenDream/Godzilla/releases/)
