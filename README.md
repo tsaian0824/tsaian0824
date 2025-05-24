@@ -47,6 +47,7 @@
 - [Go][Packer] [Go2bypass](https://github.com/tsaian0824/Go2bypass)
 - [C++][PELoader] [FilelessPELoader](https://github.com/tsaian0824/FilelessPELoader)
 - [C++][微信解密实现] [CppWeixinHunter](https://github.com/tsaian0824/CppWeixinHunter)
+- [c++][Disable windows defender] [defendnot](https://github.com/tsaian0824/defendnot)| [release version](https://github.com/es3n1n/defendnot/releases)
 ### Tounel Tools
 - [Go] [Stowaway](https://github.com/tsaian0824/Stowaway)
 - [Go] [suo5](https://github.com/tsaian0824/suo5)
