@@ -62,6 +62,7 @@
 ### Exploit Payload
 - [wy876漏洞库的备份](https://github.com/tsaian0824/wy876-exploit-payload) : Continuously updated vulnerability projects.
 - [ShiroAttack](https://github.com/tsaian0824/ShiroAttack2_Pro)| [release version](https://github.com/Chave0v0/ShiroAttack2_Pro/releases)
+- [Awesome OSCP](https://github.com/tsaian0824/awesome-oscp)
 <!---
 tsaian0824/tsaian0824 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
