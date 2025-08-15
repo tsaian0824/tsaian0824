@@ -52,6 +52,7 @@
 - [Go] [Stowaway](https://github.com/tsaian0824/Stowaway)
 - [Go] [suo5](https://github.com/tsaian0824/suo5)
 - [Py] [Neo-reGeorg](https://github.com/tsaian0824/Neo-reGeorg)
+- [Py] [fir-proxy](https://github.com/tsaian0824/fir-proxy)
 ### Post-Exploitation Tools
 - [Go][windows][unix] [Pillager](https://github.com/tsaian0824/Pillager)
 - [RamiGPT](https://github.com/tsaian0824/RamiGPT)
