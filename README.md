@@ -7,6 +7,7 @@
 - [Py] [Recon-NG](https://github.com/tsaian0824/recon-ng)
 - [Py] [AttackSurfaceMapper](https://github.com/tsaian0824/AttackSurfaceMapper)
 - [Online] [DNSDumpster](https://dnsdumpster.com/)
+- [Shell] [GooFuzz](https://github.com/tsaian0824/GooFuzz)
 ### Social Engineering(Delivery)
 - [Go] [o365AttackToolKit](https://github.com/tsaian0824/o365-attack-toolkit)
 - [Go] [EvilGinx2](https://github.com/tsaian0824/evilginx2)| [release version](https://github.com/kgretzky/evilginx2/releases)
