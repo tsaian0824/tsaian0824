@@ -9,6 +9,7 @@
 - [Online] [DNSDumpster](https://dnsdumpster.com/)
 - [Shell] [GooFuzz](https://github.com/tsaian0824/GooFuzz)
 - [Py] [OneForAll](https://github.com/tsaian0824/OneForAll)
+- [JS] [Phantom](https://github.com/tsaian0824/Phantom)
 ### Social Engineering(Delivery)
 - [Go] [o365AttackToolKit](https://github.com/tsaian0824/o365-attack-toolkit)
 - [Go] [EvilGinx2](https://github.com/tsaian0824/evilginx2)| [release version](https://github.com/kgretzky/evilginx2/releases)
