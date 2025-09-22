@@ -63,6 +63,7 @@
 - [Py] [impacket](https://github.com/tsaian0824/impacket)| [release version](https://github.com/fortra/impacket/releases)
 - [Go] [综合后渗透方面的杂烩](https://github.com/tsaian0824/e0e1-config)| [release version](https://github.com/eeeeeeeeee-code/e0e1-config/releases)
 - [C] [CVE-2025-32463_chwoot](https://github.com/tsaian0824/CVE-2025-32463_chwoot)
+- [Go] [Windows-Persistence-Tool](https://github.com/tsaian0824/Windows-Persistence-Tool)
 ### Exploit Payload
 - [wy876漏洞库的备份](https://github.com/tsaian0824/wy876-exploit-payload) : Continuously updated vulnerability projects.
 - [ShiroAttack](https://github.com/tsaian0824/ShiroAttack2_Pro)| [release version](https://github.com/Chave0v0/ShiroAttack2_Pro/releases)
