@@ -47,6 +47,7 @@
 - [Go][windows] [merlin](https://github.com/tsaian0824/merlin)| [release version](https://github.com/Ne0nd0g/merlin/releases)
 ### Tools
 - [Go][shellcodePacker] [darkPulse](https://github.com/tsaian0824/darkPulse)
+- [Py] [ShellcodeLoader2025](https://github.com/tsaian0824/ShellcodeLoader2025)
 - [Go][Packer] [Go2bypass](https://github.com/tsaian0824/Go2bypass)
 - [C++][PELoader] [FilelessPELoader](https://github.com/tsaian0824/FilelessPELoader)
 - [C++][微信解密实现] [CppWeixinHunter](https://github.com/tsaian0824/CppWeixinHunter)
