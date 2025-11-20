@@ -17,7 +17,7 @@
 - [Py] [PwnAuth](https://github.com/tsaian0824/PwnAuth)
 - [Go] [Modlishka](https://github.com/tsaian0824/Modlishka)| [release version](https://github.com/drk1wi/Modlishka/releases)
 ### Remote Access Tools
-- [tuoni](https://github.com/tsaian0824/tuoni)| [releases](https://github.com/shell-dot/tuoni/releases/)
+- [Java][windows][unix] [tuoni](https://github.com/tsaian0824/tuoni)| [releases](https://github.com/shell-dot/tuoni/releases/)
 - [Go][C++][QT] [windows][unix] [AdaptixC2](https://github.com/tsaian0824/AdaptixC2)| [wiki](https://adaptix-framework.gitbook.io/adaptix-framework)| [install](https://adaptix-framework.gitbook.io/adaptix-framework/adaptix-c2/getting-starting/installation)
 - [Go][windows][unix] [reverse_ssh](https://github.com/tsaian0824/reverse_ssh)
 - [C++][windows] [SimpleRemoter](https://github.com/tsaian0824/SimpleRemoter)| [release version](https://github.com/yuanyuanxiang/SimpleRemoter/releases)
